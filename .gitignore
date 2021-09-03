@@ -1,0 +1,6 @@
+design.md
+*.pyc
+.DS_Store
+.pytest*
+.vscode/
+__pycache__
