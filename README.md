@@ -1,6 +1,2 @@
-* fitview
-* lmfitview
-* dataview
-* dataglass
-* glassd
-* fitsight
+# ∂FitView: A GUI App for fitting data using lmfit
+Work in progress ...
